@@ -58,14 +58,14 @@ j. Filters
 <br>
 "Filters allow users to drill down into specific months or languages, making the dashboard dynamic and customizable for detailed analysis."
 
-Challengers - 
-1.Columns like Transaction Bank, Payment Mode, and Coupon Code have missing or blank values.
-2.No single column uniquely identifies transactions.
+Challengers - <br>
+1. Columns like Transaction Bank, Payment Mode, and Coupon Code have missing or blank values. <br>
+2. No single column uniquely identifies transactions.
 
 
-Overcome - 
-1.Generate composite keys (e.g., User ID + Product Code + Sales Date).
-2.Always validate the uniqueness of generated keys.
+Overcome - <br>
+1. Generate composite keys (e.g., User ID + Product Code + Sales Date). <br>
+2. Always validate the uniqueness of generated keys.
 
 
 Learnings - 
